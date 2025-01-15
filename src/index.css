@@ -1,0 +1,60 @@
+/* Scrollbar styles */
+::-webkit-scrollbar {
+  width: 12px; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ee3726; 
+  border-radius: 6px; 
+  box-shadow: 0px 0px 10px rgba(28, 0, 241, 0.5); 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #1a3aef; 
+  box-shadow: 0px 0px 15px rgba(4, 255, 217, 0.7); 
+}
+
+::-webkit-scrollbar-track {
+  background: #bbeaca;
+}
+
+
+
+:root {
+  line-height: 1;
+  font-weight: 400;
+  margin-top: 0px;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wholebody{
+  margin: 0px;
+
+  font-family: "Netflix Sans", "Helvetica Neue", "Segoe UI", Roboto, Ubuntu, sans-serif;
+
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.5),
+    rgba(8, 8, 8, 0.4));  
+    
+}
+
+
+body{
+  margin:0px;
+ 
+  background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/2f5a878d-bbce-451b-836a-398227a34fbf/web/IN-en-20241230-TRIFECTA-perspective_5ab944a5-1a71-4f6d-b341-8699d0491edd_large.jpg") ;
+
+
+  background-size: cover;
+}
+
+a{
+  text-decoration: none;
+}
+
+

@@ -1,0 +1,34 @@
+.head{
+    height: 60px;
+    padding-left: 210px;
+
+}
+
+.headtext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+}
+
+
+.logo {
+    height:40px;
+    padding-top: 40px;
+    padding-left: 30px;
+    will-change: filter;
+    transition: filter 100ms;
+  }
+  .logo:hover {
+    filter: drop-shadow(0 0 2em #05d6f6aa);
+  }
+  .logo.react:hover {
+    filter: drop-shadow(0 0 4em #03ff2daa);
+  }
+
+
+  a{
+    color: aliceblue;
+    font-weight:600 ;
+  }

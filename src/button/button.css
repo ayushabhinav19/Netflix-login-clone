@@ -1,0 +1,31 @@
+button{
+    width: 350px;
+    height: 40px;
+    margin: 10px;
+    font-size: large;
+    font-weight: 600;
+    color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    
+}
+
+button:hover{
+    background-color:rgb(145, 43, 63);
+}
+
+.buttonbox{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px ;
+}
+
+.primary{
+    background-color: rgb(255, 0, 0);
+    border:2px solid red;
+    opacity: 1;
+}
+.secondary{
+    background-color: rgb(62, 61, 61);
+    border: 2px solid black;
+}

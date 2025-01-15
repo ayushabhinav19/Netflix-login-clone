@@ -1,0 +1,57 @@
+.mainbox{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+.innerbox{
+    height: 670px;
+    width: 480px;
+    background-color:black;
+    opacity: 0.8;
+    border: 1px solid red;
+    border-radius: 30px;
+    margin-bottom: 0px;
+}
+
+.signinword{
+    margin-top: 58px;
+    font-size: xx-large;
+    color: aliceblue;
+    font-weight:bold;
+    padding-left: 60px;
+    padding-bottom:10px ;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    color: aliceblue;
+    margin: 5px;
+}
+
+.eye{
+    position:relative;
+
+}
+.eyeimage{
+    color:rgb(204, 135, 146) ;
+    position: absolute;
+    right: 87px;
+    bottom: 25px;
+}
+
+.passworderror{
+    font-family:cursive;
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+
+.usernameerror{
+    font-family:cursive;
+    display: flex;
+    justify-content: center;
+    color: red;
+}

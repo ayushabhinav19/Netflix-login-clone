@@ -1,0 +1,23 @@
+.username{
+    margin:13px;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    padding: 10px;
+}
+
+.enterbox{
+    width: 300px;
+    height: 40px;
+    background-color: transparent;
+    border:none;
+    border-bottom: 3px solid rgb(19, 191, 238);
+    color: aliceblue;
+    padding-bottom: 0px ;
+    padding-left: 10px;
+    font-size: large;
+}
+
+.enterbox::placeholder{
+    color: rgb(217, 205, 205);
+}

@@ -1,0 +1,41 @@
+.footer{
+    background-color: black;
+    height: 200px;
+    margin-top: 0px;
+}
+
+.contact{
+        height: 30px;
+        width: 250px;
+        color: aliceblue;
+        padding: 17px;
+        font-weight: 500;
+        margin-left:30px ;
+        padding-top: 20px;
+}
+
+.foot{
+    height: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.foot2{
+    display: flex;
+    width: 700px;
+    justify-content: space-evenly;
+    margin-left: 100px;
+}
+
+.minename{
+    margin-top: 30px;
+    margin-left: 600px;
+    color: rgb(236, 211, 173);
+    /* border: 2px solid beige ; */
+    background-color: rgb(72, 45, 45);
+    position: absolute;
+    text-align: center;
+    
+}

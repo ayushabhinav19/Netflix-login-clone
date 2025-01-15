@@ -1,0 +1,44 @@
+
+.Forgot{
+    color: #fefbf7;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.remember{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    height:20px
+
+}
+.check{
+    margin-left: 60px;
+}
+.checkbox{
+    margin-left: 0px;;
+    width: 15px;
+    height: 20px;
+}
+.rememberme{
+    color: #fefbf7;  
+}
+
+.newuser{
+    color:#8c8c8c;;
+    height: 20px;
+    width: 230px;
+    margin: 15px;
+    margin-left: 60px;
+}
+
+.copyright{
+    color:#8c8c8c;
+    margin-left:60px ;
+    text-align: left;
+}
+.learn{
+    color:blue
+}
