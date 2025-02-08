@@ -5,7 +5,7 @@ A simple **Netflix login page clone** built using **React** with responsive desi
 
 ## 📸 Screenshot  
 ![Netflix Login Page](netflix%20first.png)
-![Netflix Login Page](netflixdown.png)
+![Netflix Login Page](netflix down.png)
 
 
 ## 🚀 Features  
